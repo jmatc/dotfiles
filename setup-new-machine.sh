@@ -15,7 +15,6 @@ git clone https://github.com/jmatc/jsutils.git ~/projects/js-utils
 # ~/code
 git clone https://github.com/jashkenas/backbone.git ~/code/backbone
 git clone https://github.com/facebook/react.git ~/code/react
-git clone https://github.com/kriasoft/react-starter-kit.git ~/code/react-starter-kit
 
 ## node modules
 # Install and managing different versions of node
