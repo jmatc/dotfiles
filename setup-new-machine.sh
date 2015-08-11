@@ -23,6 +23,8 @@ npm install -g nvm
 npm install -g nrm
 # Type `git open` to open the GitHub page or website for a repository. (swiped this from @paulirish)
 npm install -g git-open
+# caniuse.com command line tool
+npm install -g caniuse-cmd
 
 ## setup symlinks
 
